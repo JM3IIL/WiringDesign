@@ -8,4 +8,7 @@ https://e.lapp.com/jp/conductor-size
 
 https://www2.panasonic.biz/jp/terasu/skill/dictionary/square.html
 
+https://blog.memo-labo.com/?p=1071
+
+
 
