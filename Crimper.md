@@ -17,6 +17,8 @@ https://ameblo.jp/holycater/entry-12467340656.html
 
 https://sakidori.co/article/662660
 
+https://denkou-nouhau.com/attyaku-penchi-asusume/
+
 
 
 
