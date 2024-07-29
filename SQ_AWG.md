@@ -10,6 +10,8 @@ https://www2.panasonic.biz/jp/terasu/skill/dictionary/square.html
 
 https://blog.memo-labo.com/?p=1071
 
+https://batteryspace.jp/html/page28.html
+
 # AWG (0～30)
 
 | AWG | 直径(mm) | 断面積(mm2) |	銅電気抵抗率(Ω/km) | 銅線概算抵抗(mΩ/m) | 最大電流(A) | 備考 |
