@@ -1,5 +1,7 @@
 # 圧着工具
 
+# 裸圧着端子
+https://jp.misumi-ec.com/tech-info/categories/electric_electronic_design/ee02/g0072.html
 
 # その他
 https://fa-ubon.jp/tech/002_bell51_76-77.html
