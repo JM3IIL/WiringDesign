@@ -4,6 +4,8 @@
 https://jp.misumi-ec.com/tech-info/categories/electric_electronic_design/ee02/g0072.html
 
 
+https://www.tsunoda-japan.com/crimp.html
+
 
 # フェルール端子
 https://seisan-system.com/blog/1120
