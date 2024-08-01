@@ -3,8 +3,18 @@
 # 裸圧着端子
 https://jp.misumi-ec.com/tech-info/categories/electric_electronic_design/ee02/g0072.html
 
+
+
+# フェルール端子
+https://seisan-system.com/blog/1120
+
+https://f-souhatsugiken.co.jp/blog/column/detail/23032701580323/
+
+
 # その他
 https://fa-ubon.jp/tech/002_bell51_76-77.html
+
+
 
 
 https://www.best-parts-media.jp/element/work_items/23603
