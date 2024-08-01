@@ -10,6 +10,8 @@ https://seisan-system.com/blog/1120
 
 https://f-souhatsugiken.co.jp/blog/column/detail/23032701580323/
 
+https://blog.rittal.jp/1377/
+
 
 # その他
 https://fa-ubon.jp/tech/002_bell51_76-77.html
