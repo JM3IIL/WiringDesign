@@ -27,6 +27,8 @@ IV線 単線　周囲温度30℃
 
 # ケーブル
 
+https://detail-infomation.com/cable-type/
+
 |記号|名称|特徴||
 |:--|:---|:--|:--|
 |VVF|600Vビニル絶縁ビニルシースケーブル平型|Fはフラット。最高許容温度60℃。IV線が中に2～4本。屋内・屋外・地中配線用。低圧配線用で最も一般的。|Vinyl insulated Vinyl sheathed Flat-type cable|
