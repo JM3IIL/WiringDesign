@@ -25,6 +25,9 @@ IV線 単線　周囲温度30℃
 |4.0 |6.8 |81 |
 |5.0 |8.2 |107|
 
+https://www.fujikura-dia.co.jp/pdf/catalog/catalog-IV-HIV-KIV-KIP.pdf
+
+
 # ケーブル
 
 https://detail-infomation.com/cable-type/
