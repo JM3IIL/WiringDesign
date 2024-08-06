@@ -12,7 +12,7 @@ $$V_l=\sqrt{3}V$$
 $$I_l=I$$
 
 電力
-$$P=\sqrt{3}v_lI_lcosθ=3I^2R [W]$$
+$$P=\sqrt{3}V_lI_lcosθ=3I^2R [W]$$
 
 
 ## Δ(デルタ/三角)結線
