@@ -49,6 +49,9 @@ TSUNODA JIS 裸圧着端子・裸圧着スリーブ用 TP-8 JISC9711 JIS C 2805 
 https://www.tsunoda-japan.com/itempage/TP-8.html
 
 
+2023年6月21日　圧着端子の基礎知識
+取材協力：日本圧着端子製造株式会社
+https://jp.rs-online.com/web/content/discovery/ideas-and-advice/crimp-terminal-guide
 
 
 圧着工具の選定方法
