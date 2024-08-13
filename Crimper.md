@@ -38,3 +38,45 @@ https://denkou-nouhau.com/attyaku-penchi-asusume/
 
 
 
+
+
+## 参考工具
+TSUNODA TP-R JIS圧着工具 
+リングスリーブE用  JIS C 2806
+https://www.tsunoda-japan.com/itempage/TP-R.html
+
+TSUNODA JIS 裸圧着端子・裸圧着スリーブ用 TP-8 JISC9711 JIS C 2805 1.25/2/5.5/8
+https://www.tsunoda-japan.com/itempage/TP-8.html
+
+
+
+
+圧着工具の選定方法
+https://www.nejisaurus.engineer.jp/crimping-tool-selection-method
+
+絶縁被覆付圧着端子の工具別圧着形状比較
+2020年03月19日
+https://ameblo.jp/holycater/entry-12583026482.html
+
+2009/05/28 10:00 エンジニア製精密圧着ペンチ『PA-21』
+http://blog.siliconhouse.jp/archives/51559638.html
+
+2020年2月3日 投稿者: Bto Plus HP担当
+オープンバレル圧着工具の選定
+https://btoplus.jp/archives/choose_crimping_tool/
+
+2023年02月27日 圧着ペンチ PA シリーズをレビュー
+https://elchika.com/article/607d5dd4-4acb-407f-8d8c-3e7d9a1444ca/
+
+アマチュアレベルの圧着について
+https://bbs.avalontech.jp/t/topic/643
+
+コネクタの自作！電子工作の圧着工具と圧着方法 2021/5/5
+https://xn--p8jqu4215bemxd.com/archives/397
+
+
+
+
+
+
+
