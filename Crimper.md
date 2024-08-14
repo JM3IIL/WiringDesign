@@ -77,6 +77,9 @@ https://bbs.avalontech.jp/t/topic/643
 コネクタの自作！電子工作の圧着工具と圧着方法 2021/5/5
 https://xn--p8jqu4215bemxd.com/archives/397
 
+2024-02-23
+電子工作で使われる圧着端子コネクタと圧着工具
+https://fumimaker.net/entry/2024/02/23/215931
 
 
 
