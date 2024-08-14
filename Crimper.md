@@ -16,6 +16,10 @@ https://blog.rittal.jp/1377/
 
 
 # その他
+- 絶縁被覆端子
+- オープンバレル
+- ギボシ端子
+  
 https://fa-ubon.jp/tech/002_bell51_76-77.html
 
 
@@ -38,7 +42,12 @@ https://denkou-nouhau.com/attyaku-penchi-asusume/
 
 
 
-
+# JIS
+| 規格番号|名称|英表記|
+|:--|:--|:--|
+| JIS C 9711-1997 | 屋内配線用電線接続工具 | Compression tools for wire connectors of interior wiring |
+| JIS C 2805:2010 | 銅線用圧着端子 | Crimp-type terminal lugs for copper conductors |
+| JIS C 2806:2003 | 銅線用裸圧着スリーブ | Non-insulated crimp-type sleeves for copper conductors |
 
 ## 参考工具
 TSUNODA TP-R JIS圧着工具 
