@@ -2,3 +2,14 @@
 第二種電気工事士学科対策！配線用遮断器と漏電遮断器の違いを写真で攻略！
 https://sikakumaster.com/denko2shu_breaker-1812
 
+遮断器
+https://ja.m.wikipedia.org/wiki/%E9%81%AE%E6%96%AD%E5%99%A8
+
+配線用遮断器
+https://ja.m.wikipedia.org/wiki/%E9%85%8D%E7%B7%9A%E7%94%A8%E9%81%AE%E6%96%AD%E5%99%A8
+
+漏電遮断器
+https://ja.m.wikipedia.org/wiki/%E6%BC%8F%E9%9B%BB%E9%81%AE%E6%96%AD%E5%99%A8
+
+
+
