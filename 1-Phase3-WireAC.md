@@ -9,4 +9,6 @@
 | 三相4線式 | 3Φ4w | 200V |
 
 
+電気の基本：配線方式
+https://www2.panasonic.biz/jp/basics/electric/electricity/wiring-systems/
 
