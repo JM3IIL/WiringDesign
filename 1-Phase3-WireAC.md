@@ -12,3 +12,10 @@
 電気の基本：配線方式
 https://www2.panasonic.biz/jp/basics/electric/electricity/wiring-systems/
 
+
+三相交流から単相交流への変換　
+スコット結線・変形ウッドブリッジ結線・
+ルーフデルタ結線
+http://deadsection.image.coocan.jp/dead_sec/conv3-2/conv3-2.htm
+
+
