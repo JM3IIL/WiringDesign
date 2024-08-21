@@ -18,4 +18,9 @@ https://www2.panasonic.biz/jp/basics/electric/electricity/wiring-systems/
 ルーフデルタ結線
 http://deadsection.image.coocan.jp/dead_sec/conv3-2/conv3-2.htm
 
+配電線→コンセント→無線機へ
+https://musen.server-shared.com/AC100V-Story.html
+
+
+
 
