@@ -11,5 +11,7 @@ https://ja.m.wikipedia.org/wiki/%E9%85%8D%E7%B7%9A%E7%94%A8%E9%81%AE%E6%96%AD%E5
 漏電遮断器
 https://ja.m.wikipedia.org/wiki/%E6%BC%8F%E9%9B%BB%E9%81%AE%E6%96%AD%E5%99%A8
 
+分岐回路の設計の覚え方
+https://iro2.info/denko-oni_6_branch-circuits/
 
 
