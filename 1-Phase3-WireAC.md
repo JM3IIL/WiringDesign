@@ -21,6 +21,8 @@ http://deadsection.image.coocan.jp/dead_sec/conv3-2/conv3-2.htm
 配電線→コンセント→無線機へ
 https://musen.server-shared.com/AC100V-Story.html
 
-
+単相と三相の違い
+2020年07月15日
+https://www.kamidenshi.co.jp/magazine/1649/
 
 
