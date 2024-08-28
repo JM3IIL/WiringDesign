@@ -25,4 +25,5 @@ https://musen.server-shared.com/AC100V-Story.html
 2020年07月15日
 https://www.kamidenshi.co.jp/magazine/1649/
 
-
+三相交流電圧(電流)不平衡率の計算・測定方法
+https://jeea.or.jp/course/contents/05102/
