@@ -14,4 +14,7 @@ https://ja.m.wikipedia.org/wiki/%E6%BC%8F%E9%9B%BB%E9%81%AE%E6%96%AD%E5%99%A8
 分岐回路の設計の覚え方
 https://iro2.info/denko-oni_6_branch-circuits/
 
+幹線の分岐
+https://iro2.info/denko-oni_5_main-line-facility/
+
 
