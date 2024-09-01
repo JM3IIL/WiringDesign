@@ -18,3 +18,12 @@ https://iro2.info/denko-oni_6_branch-circuits/
 https://iro2.info/denko-oni_5_main-line-facility/
 
 
+## 過電流遮断器
+動作時間(分)
+|定格電流|ヒューズ定格の1.6倍|遮断器定格の1.25倍|定格の2倍|
+|:--|--:|--:|--:|
+|30A以下|60|60|2|
+|30A超え50A以下|60|60|4|
+
+
+
