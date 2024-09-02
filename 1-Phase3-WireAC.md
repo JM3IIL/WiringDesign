@@ -27,3 +27,9 @@ https://www.kamidenshi.co.jp/magazine/1649/
 
 三相交流電圧(電流)不平衡率の計算・測定方法
 https://jeea.or.jp/course/contents/05102/
+
+
+## 単相コンセント形状
+住宅で使われるコンセントの種類
+https://www2.panasonic.biz/jp/basics/electric/electricity/electrical-outlet/
+
