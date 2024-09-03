@@ -49,6 +49,21 @@ IV線 より線　周囲温度30℃
 |5〜6 |0.56 |
 |7〜15 |0.49 |
 
+## コードの許容電流
+
+https://www.kanzacc.co.jp/products/cable/clist/clist04.html
+
+https://www.kdh.or.jp/safe/document/knowledge/cable05.html
+
+絶縁物の種類：ビニル混合物(最高許容温度60℃)
+VSF、VFF、VCTF、VCTFK、KV
+|公称断面積(mm2)	|素線数/直径(本/mm) |許容電流(A)|
+|--:|--:|--:|
+|0.75	|30/0.18| 7|
+|1.25	|50/0.18|	12|
+|2.0	|37/0.26|	17|
+
+
 
 # ケーブル
 
