@@ -2,6 +2,8 @@
 
 https://detail-infomation.com/wire-type/
 
+https://www2.panasonic.biz/jp/basics/electric/electricity/symbols/conduits-cables/
+
 |用途|記号|名称|特徴||
 |:--|:--|:--|:--|:--|
 |低圧架空電線路用| OW   |屋外用ビニル絶縁電線|電柱と電柱をつなぐ電線|Outdoor Weatherproof polyvinyl chloride|
