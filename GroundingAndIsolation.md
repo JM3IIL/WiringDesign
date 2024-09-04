@@ -11,6 +11,10 @@ https://sikakumaster.com/denko2shu_grandshoryaku-1424
 接地と絶縁
 https://www.denkou2.com/hikkishiken-11.html
 
+|電圧|接地工事|接地抵抗|接地線|
+|:--|:--|:--|:--|
+|300V以下|D種接地工事|100Ω以下 (500Ω以下)|1.6mm|
+
 ## 絶縁
 https://ja.m.wikipedia.org/wiki/%E7%B5%B6%E7%B8%81_(%E9%9B%BB%E6%B0%97)
 
