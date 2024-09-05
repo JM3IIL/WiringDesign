@@ -76,7 +76,8 @@ https://detail-infomation.com/cable-type/
 |VVF|600Vビニル絶縁ビニルシースケーブル平型|Fはフラット。最高許容温度60℃。IV線が中に2～4本。屋内・屋外・地中配線用。低圧配線用で最も一般的。|Vinyl insulated Vinyl sheathed Flat-type cable|
 |VVR|600Vビニル絶縁ビニルシースケーブル丸型|Rはラウンド。最高許容温度60℃。絶縁電線と外装の間に介在物。(加工難)|Vinyl insulated Vinyl sheathed Round-type cable|
 |EM-EEF|600Vポリエチレン絶縁耐燃性ポリエチレンシースケーブル平型|最高許容温度75℃。|ECO-Material PolyEthlene insulated PoliyEthlene sheathed Flat-Type cable|
-|CV|600V架橋ポリエチレン絶縁ビニルシースケーブル|最高許容温度90℃。耐候性に難あり。|Crosslinked PolyEthlene insulated Vinyl sheathed cable|
+|CV|600V架橋ポリエチレン絶縁ビニルシースケーブル|最高許容温度90℃。耐候性に難あり。|Cross-linked PolyEthlene insulated Vinyl sheathed cable|
+|CVT|600V架橋ポリエチレン絶縁ビニルシースケーブル(単心3本より線)||Cross-linked PolyEthlene insulated Vinyl sheathed cable Triple|
 |MI|MI(無機物絶縁)ケーブル|防爆型のケーブル。酸化マグネシウムを充填、シースは金属製。高強度・高耐燃性・高耐酸性。|Mineral Insulated cable|
 |CT|キャブタイヤケーブル|耐摩耗性・耐衝撃性に優れたゴム系を使用。移動用電線。|Cabtire cable|
 |VCT|ビニルキャブタイヤケーブル|柔軟性・耐水性・耐熱性に優れたビニル系を使用。移動用電線。|Vinyl Cabtire cable|
