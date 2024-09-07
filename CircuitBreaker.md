@@ -24,6 +24,17 @@ https://iro2.info/denko-oni_6_branch-circuits/
 幹線の分岐
 https://iro2.info/denko-oni_5_main-line-facility/
 
+$I_B$ 幹線の過電流遮断器の定格電流
+$I_W$ 細い幹線の許容電流
+
+|細い幹線の許容電流 $I_W$ |長さ制限(8m)|
+|:--|:--|
+|0.55 $I_B$ | 長さ制限なし |
+|0.35 $I_B$ | 8m以下 |
+|制限なし | 3m以下 |
+
+
+
 
 ## 過電流遮断器
 動作時間(分)
