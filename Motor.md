@@ -35,3 +35,6 @@ IW >= IM + IH
 IM > IH の場合
 IM <= 50A なら、IW >= 1.25IM + IH
 IM >  50A なら、IW >= 1.1IM + IH
+
+配線遮断器の定格電流
+3IM + IH
