@@ -20,6 +20,7 @@ https://iro2.info/denko-oni_6_branch-circuits/
 |20A(配線用遮断器)|1.6mm以上|20A以下|
 |20A(ヒューズ)|2.0mm以上|20A|
 |30A|2.6mm以上(5.5mm2以上)|20A以上30A以下|
+|40A|8mm2以上|30A以上40A以下|
 
 幹線の分岐
 https://iro2.info/denko-oni_5_main-line-facility/
