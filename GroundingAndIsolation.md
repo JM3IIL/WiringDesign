@@ -8,6 +8,9 @@ https://ja.m.wikipedia.org/wiki/%E6%8E%A5%E5%9C%B0
 接地工事の省略及び緩和条件
 https://sikakumaster.com/denko2shu_grandshoryaku-1424
 
+接地抵抗計測(交流電圧)
+https://www.kew-ltd.co.jp/tech-library/knowledge/guidebook/earth/
+
 接地と絶縁
 https://www.denkou2.com/hikkishiken-11.html
 
