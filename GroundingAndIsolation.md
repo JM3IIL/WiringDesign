@@ -32,4 +32,11 @@ https://ja.m.wikipedia.org/wiki/%E7%B5%B6%E7%B8%81_(%E9%9B%BB%E6%B0%97)
 
 絶縁抵抗が測れない場合、漏れ電流1mA以下
 
+絶縁抵抗の測定方法(直流電圧)
+https://www.gennect.net/ja/knowledge/fmi/ir-measurement
+
+
+
+
+
 
