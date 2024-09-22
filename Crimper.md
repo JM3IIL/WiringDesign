@@ -23,7 +23,8 @@ https://blog.rittal.jp/1377/
 https://fa-ubon.jp/tech/002_bell51_76-77.html
 
 
-
+# crimping pliers
+圧着端子
 
 https://www.best-parts-media.jp/element/work_items/23603
 
