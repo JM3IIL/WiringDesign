@@ -51,7 +51,7 @@ https://denkou-nouhau.com/attyaku-penchi-asusume/
 | JIS C 2806:2003 | 銅線用裸圧着スリーブ | Non-insulated crimp-type sleeves for copper conductors |
 
 [Eスリーブ]
-(https://github.com/JM3IIL/WiringDesign/MultiConnectionDiagram.md)
+(https://github.com/JM3IIL/WiringDesign/blob/main/MultiConnectionDiagram.md)
 
 
 ## 参考工具
