@@ -50,6 +50,10 @@ https://denkou-nouhau.com/attyaku-penchi-asusume/
 | JIS C 2805:2010 | 銅線用圧着端子 | Crimp-type terminal lugs for copper conductors |
 | JIS C 2806:2003 | 銅線用裸圧着スリーブ | Non-insulated crimp-type sleeves for copper conductors |
 
+[Eスリーブ]
+(./MultiConnectionDiagram.md)
+
+
 ## 参考工具
 TSUNODA TP-R JIS圧着工具 
 リングスリーブE用  JIS C 2806
