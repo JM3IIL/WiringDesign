@@ -30,3 +30,6 @@ https://eleking.net/k22/k22k/k22k-pilotlamp.html
 
 https://www.japan-ems.jp/post-15418/
 
+配線図図記号
+https://eleking.net/k21/k21i/k21i-symbol.html#a04
+
