@@ -25,11 +25,12 @@
 
 
 
-
-https://eleking.net/k22/k22k/k22k-pilotlamp.html
-
+日本エネルギー管理センター リングスリーブの組み合わせ
 https://www.japan-ems.jp/post-15418/
 
 配線図図記号
-https://eleking.net/k21/k21i/k21i-symbol.html#a04
+https://eleking.net/k21/k21i/k21i-symbol.html
+
+常時点灯・異時点灯
+https://eleking.net/k22/k22k/k22k-pilotlamp.html
 
