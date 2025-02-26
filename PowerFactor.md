@@ -11,7 +11,7 @@ $\cos\theta=\frac{P}{S}=\frac{P}{\sqrt{P^2+Q^2}}$
 - 全インピーダンス Z [Ω]
 
 力率
-R/Z = \frac{R}{\sqrt{R^2 + (X_L - X_C)^2}}
+$R/Z = \frac{R}{\sqrt{R^2 + (X_L - X_C)^2}}$
 
 ## RLC直列回路
 
