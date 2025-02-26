@@ -13,6 +13,14 @@ $\cos\theta=\frac{P}{S}=\frac{P}{\sqrt{P^2+Q^2}}$
 力率
 $R/Z = \frac{R}{\sqrt{R^2 + (X_L - X_C)^2}}$
 
+- 負荷にかかる実効値電圧 Vrms
+- 負荷にかかる実効値電流Irms
+- 電流と電圧の位相差θ
+- 力率cosθ
+有効電力
+P=VrmsIrmscosθ
+
+
 ## RLC直列回路
 
 - 抵抗 R [Ω]
