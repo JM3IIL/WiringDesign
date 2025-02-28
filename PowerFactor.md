@@ -31,8 +31,13 @@ P=VrmsIrmscosθ
 力率
 $\cos\theta=\frac{V_r}{V}=\frac{R}{Z}$
 
-RL直列回路の電力【有効電力・無効電力・皮相電力】
-https://detail-infomation.com/rl-series-circuit-power/
+RLC直列回路の電力【有効電力・無効電力・皮相電力】
+https://detail-infomation.com/rlc-series-circuit-power/
+
+## RLC並列回路
 
 
+
+RLC並列回路の電力【有効電力・無効電力・皮相電力】
+https://detail-infomation.com/rlc-parallel-circuit-power/
 
