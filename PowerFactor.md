@@ -31,6 +31,8 @@ $Q = V_{rms}I_{rms}sinθ$
 - 皮相電力
 $S = V_{rms}I_{rms} = \sqrt{P^2 + Q^2}$
 
+$P = VI = I^2R = \frac{V^2}{R}$
+
 ## RLC直列回路
 
 - 抵抗 R [Ω]
