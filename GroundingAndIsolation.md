@@ -18,6 +18,9 @@ https://www.denkou2.com/hikkishiken-11.html
 |:--|:--|:--|:--|
 |300V以下|D種接地工事|100Ω以下 (500Ω以下)|1.6mm|
 
+設置工事に使用する保護管
+
+
 ## 絶縁
 https://ja.m.wikipedia.org/wiki/%E7%B5%B6%E7%B8%81_(%E9%9B%BB%E6%B0%97)
 
