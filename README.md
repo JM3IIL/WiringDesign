@@ -22,3 +22,6 @@ JIS C 0617-13 第13部：アナログ素子
 
 https://www.jikkyo.co.jp/contents/download/9992655060
 https://www.mitsubishielectric.co.jp/fa/ssl/learn/el/eln/course/fa_0131/cha_0/pdf/00000000_01.pdf
+
+
+[接地と絶縁](GroundingAndIsolation.md)
