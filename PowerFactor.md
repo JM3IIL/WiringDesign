@@ -33,6 +33,9 @@ $S = V_{rms}I_{rms} = \sqrt{P^2 + Q^2}$
 
 $P = VI = I^2R = \frac{V^2}{R}$
 
+## 力率と電圧降下
+https://www.japan-ems.jp/post-384/
+
 ## RLC直列回路
 
 - 抵抗 R [Ω]
