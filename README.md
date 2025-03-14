@@ -28,4 +28,6 @@ https://www.mitsubishielectric.co.jp/fa/ssl/learn/el/eln/course/fa_0131/cha_0/pd
 - [接地と絶縁](GroundingAndIsolation.md)
 - [力率](PowerFactor.md)
 - [遮断器・開閉器・断路器](BreakerSwitchDisconnect.md)
+- [遮断器](CircuitBreaker.md)
+
 
