@@ -35,9 +35,9 @@ https://www.mitsubishielectric.co.jp/fa/ssl/learn/el/eln/course/fa_0131/cha_0/pd
 - [電動機](Motor.md)
 - [リアクトル](Reactor.md)
 
-
+部材
 - [電線管](ElectricalConduit.md)
-- 
+- [コンセント](Receptacle.md)
 
 施工
 - [施工寸法](ConstructionDimensions.md)
