@@ -32,6 +32,9 @@ https://www.mitsubishielectric.co.jp/fa/ssl/learn/el/eln/course/fa_0131/cha_0/pd
 - [需要率・不等率・負荷率](DemandFactor.md)
 
 
+- [電線管](ElectricalConduit.md)
+- 
+
 施工
 - [施工寸法](ConstructionDimensions.md)
 - [圧着工具](Crimper.md)
