@@ -37,6 +37,7 @@ https://www.mitsubishielectric.co.jp/fa/ssl/learn/el/eln/course/fa_0131/cha_0/pd
 - [リアクトル](Reactor.md)
 
 部材
+- [電線](Wire.md)
 - [電線管](ElectricalConduit.md)
 - [コンセント](Receptacle.md)
 - [電線規格](SQ_AWG.md)
