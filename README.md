@@ -33,7 +33,7 @@ https://www.mitsubishielectric.co.jp/fa/ssl/learn/el/eln/course/fa_0131/cha_0/pd
 - [需要率・不等率・負荷率](DemandFactor.md)
 - [高圧電気](HighVoltage.md)
 - [電動機](Motor.md)
-- 
+- [リアクトル](Reactor.md)
 
 
 - [電線管](ElectricalConduit.md)
