@@ -31,3 +31,6 @@ https://www.mitsubishielectric.co.jp/fa/ssl/learn/el/eln/course/fa_0131/cha_0/pd
 - [遮断器](CircuitBreaker.md)
 
 
+
+- [施工寸法](ConstructionDimensions.md)
+
