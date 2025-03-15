@@ -29,6 +29,7 @@ https://www.mitsubishielectric.co.jp/fa/ssl/learn/el/eln/course/fa_0131/cha_0/pd
 - [力率](PowerFactor.md)
 - [遮断器・開閉器・断路器](BreakerSwitchDisconnect.md)
 - [遮断器](CircuitBreaker.md)
+- [需要率・不等率・負荷率](DemandFactor.md)
 
 
 施工
