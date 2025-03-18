@@ -7,3 +7,10 @@
 |負荷電流|○遮断可能|○遮断可能|✕遮断不可|
 |短絡電流|○遮断可能|✕遮断不可|✕遮断不可|
 
+
+LBS負荷開閉器
+https://blog.memo-labo.com/?p=61
+
+DS断路器
+https://blog.memo-labo.com/?p=213
+
