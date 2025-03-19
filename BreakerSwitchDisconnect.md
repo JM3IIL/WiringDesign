@@ -16,3 +16,7 @@ https://blog.memo-labo.com/?p=213
 
 PC高圧カットアウト
 https://blog.memo-labo.com/?p=215
+
+LA避雷器
+https://blog.memo-labo.com/?p=217
+
