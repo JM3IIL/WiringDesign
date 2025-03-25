@@ -45,3 +45,7 @@ $$P_l = 3I^2r [W]$$
 ## 百分率インピーダンス・電圧降下・短絡電流
 
 https://jeea.or.jp/course/contents/12151/
+
+第一種電気工事士 平成28年度(2016) 問7
+https://kakomonn.com/1denkikoujishi/questions/35155
+
