@@ -49,3 +49,12 @@ https://jeea.or.jp/course/contents/12151/
 第一種電気工事士 平成28年度(2016) 問7
 https://kakomonn.com/1denkikoujishi/questions/35155
 
+
+
+## 遮断容量
+
+高圧交流遮断器の遮断容量[V·A] = √3 × 定格電圧 [V] × 定格遮断電流 [A]
+
+第一種電気工事士 平成27年度(2015) 問21
+https://kakomonn.com/1denkikoujishi/questions/35119
+
