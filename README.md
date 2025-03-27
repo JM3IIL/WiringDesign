@@ -36,6 +36,8 @@ https://www.mitsubishielectric.co.jp/fa/ssl/learn/el/eln/course/fa_0131/cha_0/pd
 - [電動機](Motor.md)
 - [リアクトル](Reactor.md)
 
+- [地中電線路](UndergroundPowerLines.md)
+
 部材
 - [電線](Wire.md)
 - [電線管](ElectricalConduit.md)
