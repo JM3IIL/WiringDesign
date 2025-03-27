@@ -1,4 +1,10 @@
 # 遮断器
+
+配電用遮断器の設置基準
+https://jsia.or.jp/mamechishiki/syadanki/
+
+
+
 第二種電気工事士学科対策！配線用遮断器と漏電遮断器の違いを写真で攻略！
 https://sikakumaster.com/denko2shu_breaker-1812
 
