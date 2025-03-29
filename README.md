@@ -27,6 +27,7 @@ https://www.mitsubishielectric.co.jp/fa/ssl/learn/el/eln/course/fa_0131/cha_0/pd
 - [三相交流](3-PhaseAC.md)
 - [接地と絶縁](GroundingAndIsolation.md)
 - [力率](PowerFactor.md)
+- [高圧配電](HighVoltageDistribution.md)
 - [変成器](VoltageCurrentTransfomer.md)
 - [遮断器・開閉器・断路器](BreakerSwitchDisconnect.md)
   - [遮断器](CircuitBreaker.md)
