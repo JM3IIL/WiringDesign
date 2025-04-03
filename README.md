@@ -38,6 +38,7 @@ https://www.mitsubishielectric.co.jp/fa/ssl/learn/el/eln/course/fa_0131/cha_0/pd
 - [リアクトル](Reactor.md)
 
 - [地中電線路](UndergroundPowerLines.md)
+- [スイッチ](Switch.md)
 
 部材
 - [電線](Wire.md)
