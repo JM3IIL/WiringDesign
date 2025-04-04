@@ -82,6 +82,13 @@ https://detail-infomation.com/cable-type/
 |CT|キャブタイヤケーブル|耐摩耗性・耐衝撃性に優れたゴム系を使用。移動用電線。|Cabtire cable|
 |VCT|ビニルキャブタイヤケーブル|柔軟性・耐水性・耐熱性に優れたビニル系を使用。移動用電線。|Vinyl Cabtire cable|
 
+高圧CVTケーブル
+
+低圧CVTケーブル
+
+
+https://www.denzai-net.jp/technical/den_technical_d-05.htm
+
 # 設計
 
 https://tohoku-gakuin.repo.nii.ac.jp/record/621/files/2015_10%2520%25EF%25BE%2592%25EF%25BD%25B6%25EF%25BE%2584%25EF%25BE%259B%25E9%259B%2591%25E5%25AD%25A631.pdf
