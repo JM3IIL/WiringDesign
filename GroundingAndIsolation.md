@@ -39,7 +39,14 @@ https://ja.m.wikipedia.org/wiki/%E7%B5%B6%E7%B8%81_(%E9%9B%BB%E6%B0%97)
 https://www.gennect.net/ja/knowledge/fmi/ir-measurement
 
 
+# 絶縁耐力試験
 
+絶縁抵抗と絶縁耐力
+https://jeea.or.jp/course/contents/02105/
+
+第三種電気主任技術者 法規試験(電気設備技術基準)
+[R3:問12]
+https://denken-ou.com/houkir3-12/
 
 
 
