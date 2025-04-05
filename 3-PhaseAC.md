@@ -15,8 +15,8 @@ $$V_l = \sqrt{3}V$$
 
 $$I_l = I$$
 
-電力
-$$P = \sqrt{3}V_lI_lcosθ = 3I^2R [W]$$
+電力 [W]
+$$P = \sqrt{3}V_lI_lcosθ = 3I^2R$$
 
 
 ## Δ(デルタ/三角)結線
@@ -25,12 +25,13 @@ $$I_l = \sqrt{3}I$$
 
 
 ## 電圧降下・電力損失
-電圧降下 ν(ニュー) [V]
 - 電源電圧 $V_s$
 - 負荷電圧 $V_r$
 - 負荷電流 $I$
-- 電線抵抗 $r$ 
-$$ν = V_s - V_r = \sqrt{3}Ir [V]$$
+- 電線抵抗 $r$
+
+電圧降下 ν(ニュー) [V]
+$$ν = V_s - V_r = \sqrt{3}Ir$$
 
 電力損失
 $$P_l = 3I^2r [W]$$
@@ -57,4 +58,5 @@ https://kakomonn.com/1denkikoujishi/questions/35155
 
 第一種電気工事士 平成27年度(2015) 問21
 https://kakomonn.com/1denkikoujishi/questions/35119
+
 
