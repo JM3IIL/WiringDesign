@@ -11,7 +11,10 @@ https://denko-land.com/knowledge/outlet.html
 
 - 125V15A
 - 125V20A
-- 250V
+- 250V15A
+- 250V20A
+- 250V30A (IHコンロ用2種類あり)
+
 
 三相200Vコンセント形状・種類
 https://denko-land.com/knowledge/3pole-outlet.html
