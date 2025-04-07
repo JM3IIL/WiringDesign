@@ -25,9 +25,11 @@ $$I_l = \sqrt{3}I$$
 
 
 YΔ結線
+第一種電気工事士 令和6年度(2024)下期 問10 
 https://kakomonn.com/1denkikoujishi/questions/78605
 
 線電流・相電流
+第一種電気工事士 令和6年度(2024)下期 問5 
 https://kakomonn.com/1denkikoujishi/questions/78600
 
 
