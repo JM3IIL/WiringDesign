@@ -24,6 +24,13 @@ $$V_l = V$$
 $$I_l = \sqrt{3}I$$
 
 
+YΔ結線
+https://kakomonn.com/1denkikoujishi/questions/78605
+
+線電流・相電流
+https://kakomonn.com/1denkikoujishi/questions/78600
+
+
 ## 電圧降下・電力損失
 - 電源電圧 $V_s$
 - 負荷電圧 $V_r$
@@ -36,6 +43,8 @@ $$ν = V_s - V_r = \sqrt{3}Ir$$
 電力損失
 $$P_l = 3I^2r [W]$$
 
+電圧降下
+https://kakomonn.com/1denkikoujishi/questions/78601
 
 ## 三相交流と電動機
 3Φ3W 200V供給の電動機
