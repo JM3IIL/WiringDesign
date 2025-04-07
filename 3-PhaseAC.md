@@ -49,8 +49,9 @@ https://jeea.or.jp/course/contents/12151/
 
 変圧器のインピーダンス百分率
 %Z = (Z × S / Vn²) × 100
-https://kakomonn.com/1denkikoujishi/questions/78603
 
+第一種電気工事士 令和6年度(2024)下期 問8
+https://kakomonn.com/1denkikoujishi/questions/78603
 
 第一種電気工事士 平成28年度(2016) 問7
 https://kakomonn.com/1denkikoujishi/questions/35155
