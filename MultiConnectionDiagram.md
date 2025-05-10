@@ -34,3 +34,14 @@ https://eleking.net/k21/k21i/k21i-symbol.html
 常時点灯・異時点灯
 https://eleking.net/k22/k22k/k22k-pilotlamp.html
 
+
+## 第一種
+
+https://www.hozan.co.jp/corp/denko1/pg/1no1-1/
+https://www.hozan.co.jp/corp/denko1/pg/1no2-1/
+https://www.hozan.co.jp/corp/denko1/pg/1no3-1/
+https://www.hozan.co.jp/corp/denko1/pg/1no4-1/
+
+
+
+
