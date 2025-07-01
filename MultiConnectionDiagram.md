@@ -51,6 +51,28 @@ https://www.hozan.co.jp/corp/denko1/pg/1no9-1/
 https://www.hozan.co.jp/corp/denko1/pg/1no10-1/
 
 
+https://www.shiken.or.jp/construction/upload/20241124_co_first_q01.pdf
+https://www.shiken.or.jp/construction/upload/20241124_co_first_q02.pdf
+https://www.shiken.or.jp/construction/upload/20241124_co_first_q03.pdf
+https://www.shiken.or.jp/construction/upload/20241124_co_first_q04.pdf
+https://www.shiken.or.jp/construction/upload/20241124_co_first_q05.pdf
+https://www.shiken.or.jp/construction/upload/20241124_co_first_q06.pdf
+https://www.shiken.or.jp/construction/upload/20241124_co_first_q07.pdf
+https://www.shiken.or.jp/construction/upload/20241124_co_first_q08.pdf
+https://www.shiken.or.jp/construction/upload/20241124_co_first_q09.pdf
+https://www.shiken.or.jp/construction/upload/20241124_co_first_q10.pdf
+
+
+https://www.shiken.or.jp/construction/upload/20241124_co_first_a01.pdf
+https://www.shiken.or.jp/construction/upload/20241124_co_first_a02.pdf
+https://www.shiken.or.jp/construction/upload/20241124_co_first_a03.pdf
+https://www.shiken.or.jp/construction/upload/20241124_co_first_a04.pdf
+https://www.shiken.or.jp/construction/upload/20241124_co_first_a05.pdf
+https://www.shiken.or.jp/construction/upload/20241124_co_first_a06.pdf
+https://www.shiken.or.jp/construction/upload/20241124_co_first_a07.pdf
+https://www.shiken.or.jp/construction/upload/20241124_co_first_a08.pdf
+https://www.shiken.or.jp/construction/upload/20241124_co_first_a09.pdf
+https://www.shiken.or.jp/construction/upload/20241124_co_first_a10.pdf
 
 
 
