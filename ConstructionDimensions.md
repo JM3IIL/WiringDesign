@@ -2,6 +2,7 @@
 
 https://www.hozan.co.jp/corp/denko2/pg/1process/
 
+https://www.hozan.co.jp/corp/denko1/pg/1process-1/
 
 https://denkou.tai-saku.net/advice/ginouadv01.html
 
